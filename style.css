@@ -8,8 +8,17 @@ h1{
     margin-top: 50px;
     margin-left: 350px;
 }
-div{
+p{
     color: rgb(125, 48, 128);
     margin-left: 150px;
     margin-right: 150px;
+}
+div{
+    height: 20px;
+    width: 500px;
+    margin-left:400px;
+    font-style: italic;
+}
+button{
+    background-color:rgb(126, 26, 92);
 }
